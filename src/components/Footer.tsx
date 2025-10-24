@@ -1,5 +1,7 @@
 import React from "react";
-import { FaInstagram, FaTwitter, FaFacebook, FaTiktok } from "react-icons/fa6";
+import { FaInstagram, FaTwitter, FaFacebook } from "react-icons/fa";
+import { SiTiktok } from "react-icons/si";
+
 
 
 
@@ -46,7 +48,8 @@ const Footer: React.FC = () => {
             <FaInstagram className="hover:text-white cursor-pointer" />
             <FaTwitter className="hover:text-white cursor-pointer" />
             <FaFacebook className="hover:text-white cursor-pointer" />
-            <FaTiktok className="hover:text-white cursor-pointer" />
+            <SiTiktok className="hover:text-white cursor-pointer" />
+
           </div>
         </div>
       </div>

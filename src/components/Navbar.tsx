@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 
 const Navbar: React.FC = () => {
@@ -11,11 +12,11 @@ const Navbar: React.FC = () => {
 
         <div className="hidden md:flex items-center gap-8 text-sm opacity-95">
           <div className="flex gap-6">
-            <a className="hover:underline">Hotel</a>
-            <a className="hover:underline">Flight</a>
-            <a className="hover:underline">Train</a>
-            <a className="hover:underline">Travel</a>
-            <a className="hover:underline">Car Rental</a>
+            <a href="#" className="hover:underline">Hotel</a>
+            <a href="#" className="hover:underline">Flight</a>
+            <a href="#" className="hover:underline">Train</a>
+            <a href="#" className="hover:underline">Travel</a>
+            <a href="#" className="hover:underline">Car Rental</a>
           </div>
 
           <div className="w-[420px] max-w-xs">

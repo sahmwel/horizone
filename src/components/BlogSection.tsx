@@ -6,7 +6,7 @@ import BlogCard from "./BlogCard";
 */
 const posts = [
   {
-    image: "/images/cards-1.jpg",
+    image: "/images/destination-1.jpg",
     category: "Destination",
     date: "30 Jan 2024",
     readTime: "10 mins read",
@@ -16,7 +16,7 @@ const posts = [
     avatar: "/images/cards-2.jpg",
   },
   {
-    image: "/images/cards-2.jpg",
+    image: "/images/lifestyle-1.jpg",
     category: "Lifestyle",
     date: "29 Jan 2024",
     readTime: "5 mins read",
@@ -26,7 +26,7 @@ const posts = [
     avatar: "/images/cards-3.jpg",
   },
   {
-    image: "/images/cards-3.jpg",
+    image: "/images/tips-1.jpg",
     category: "Tips & Hacks",
     date: "26 Jan 2024",
     readTime: "15 mins read",
@@ -37,7 +37,7 @@ const posts = [
   },
   // duplicate variations to populate 9 cards
   {
-    image: "/images/cards-1.jpg",
+    image: "/images/culinary.jpg",
     category: "Culinary",
     date: "24 Jan 2024",
     readTime: "10 mins read",
@@ -47,7 +47,7 @@ const posts = [
     avatar: "/images/cards-2.jpg",
   },
   {
-    image: "/images/cards-2.jpg",
+    image: "/images/destination-2.jpg",
     category: "Destination",
     date: "20 Jan 2024",
     readTime: "8 mins read",
@@ -57,7 +57,7 @@ const posts = [
     avatar: "/images/cards-3.jpg",
   },
   {
-    image: "/images/cards-3.jpg",
+    image: "/images/culinary-1.jpg",
     category: "Culinary",
     date: "18 Jan 2024",
     readTime: "6 mins read",
@@ -67,7 +67,7 @@ const posts = [
     avatar: "/images/cards-1.jpg",
   },
   {
-    image: "/images/cards-1.jpg",
+    image: "/images/lifestyle-2.jpg",
     category: "Lifestyle",
     date: "17 Jan 2024",
     readTime: "5 mins read",
@@ -77,7 +77,7 @@ const posts = [
     avatar: "/images/cards-2.jpg",
   },
   {
-    image: "/images/cards-2.jpg",
+    image: "/images/tips.jpg",
     category: "Tips & Hacks",
     date: "12 Jan 2024",
     readTime: "8 mins read",
@@ -87,7 +87,7 @@ const posts = [
     avatar: "/images/cards-3.jpg",
   },
   {
-    image: "/images/cards-3.jpg",
+    image: "/images/destination-3.jpg",
     category: "Destination",
     date: "10 Jan 2024",
     readTime: "10 mins read",
